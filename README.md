@@ -5,6 +5,10 @@ Original is always located here:
 
 https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb
 
+Original for Onsets and Frames Piano Transcription is always located here:
+
+https://colab.research.google.com/notebooks/magenta/onsets_frames_transcription/onsets_frames_transcription.ipynb
+
 And here is all the info related to this notebook and Google Magenta Project
 
 https://magenta.tensorflow.org/piano-transformer
