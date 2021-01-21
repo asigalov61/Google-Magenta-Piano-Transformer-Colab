@@ -5,7 +5,7 @@
 
 ### [NEW] You can now download both Google Piano Transformers models at the link below if you want to have a local copy/run locally (recommended).
 
-#### NOTE: Piano Transformer models require Python 3.7 + Tensorflow 1 (1.15) so you may need to downgrade/install it if you do not use it anymore.
+#### NOTE: Piano Transformer models require Python 3.7 + Tensorflow 1 (1.15) + Tensorflow Datasets 3.2.1 so you may need to downgrade/install all these if you do not use it anymore.
 
 https://onedrive.live.com/?authkey=%21ALc%2DMbE8ogmuExg&id=8A0D502FC99C608F%2118374&cid=8A0D502FC99C608F
 
