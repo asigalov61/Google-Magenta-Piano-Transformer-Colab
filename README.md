@@ -23,6 +23,10 @@ Original for Timbre Tranfer is always located here:
 
 https://colab.research.google.com/github/magenta/ddsp/blob/master/ddsp/colab/demos/timbre_transfer.ipynb
 
+Original for Multi-Track VAE is always located here:
+
+https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/Multitrack_MusicVAE.ipynb
+
 And here is all the info related to this notebook and Google Magenta Project
 
 https://magenta.tensorflow.org/piano-transformer
