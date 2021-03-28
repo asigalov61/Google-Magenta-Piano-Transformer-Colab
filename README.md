@@ -1,5 +1,5 @@
 # Google-Magenta-Piano-Transformer-Colab
-## This is the mirror copy of the fully working and functioning version of Google Magenta Piano Transformer Colab Notebook.
+## This is a mirror copy of the fully working and functioning version of Google Magenta Piano Transformer Colab Notebook that Project Los Angeles curates.
 
 ***
 
