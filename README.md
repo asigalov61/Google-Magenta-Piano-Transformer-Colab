@@ -3,7 +3,13 @@
 
 ***
 
-### [NEW] You can now download both Google Piano Transformers models at the link below if you want to have a local copy/run locally (recommended).
+### [NEW] [MT3: Multi-Task Multitrack Music Transcription](https://github.com/magenta/mt3)
+
+#### Official colab is here: https://github.com/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb
+
+***
+
+### You can now download both Google Piano Transformers models at the link below if you want to have a local copy/run locally (recommended).
 
 #### NOTE: Piano Transformer models require Python 3.7 + Tensorflow 1 (1.15) + Tensorflow Datasets 3.2.1 so you may need to downgrade/install all these if you do not use it anymore.
 
