@@ -363,7 +363,7 @@ melodies = {
     ]
 }
 
-melody = 'Upload your own!'  #@param ['Mary Had a Little Lamb', 'Row Row Row Your Boat', 'Twinkle Twinkle Little Star', 'Upload your own!']
+melody = 'Twinkle Twinkle Little Star'  #@param ['Mary Had a Little Lamb', 'Row Row Row Your Boat', 'Twinkle Twinkle Little Star', 'Upload your own!']
 
 if melody == 'Upload your own!':
   # Extract melody from user-uploaded MIDI file.
