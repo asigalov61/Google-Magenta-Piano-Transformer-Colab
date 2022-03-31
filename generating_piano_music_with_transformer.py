@@ -20,6 +20,10 @@ The models used here were trained on over 10,000 hours of piano recordings from 
 Unlike the original Music Transformer paper, this notebook uses attention based on absolute instead of relative position; we may add models that use relative attention at some point in the future.
 
 # Environment Setup
+
+# PLEASE IGNORE ANY INITIAL ENVIRONMENT SETUP ERRORS AND JUST RESTART THE RUNTIME AFTER THE INTIAL RUN. IT SHOULD WORK FINE.
+
+## COLAB BARELY WORKS DUE TO AGE AND DUE TO LACK OF SUPPORT BY CRAPPY GOOGLE MAGENTA TEAM
 """
 
 # Commented out IPython magic to ensure Python compatibility.
@@ -38,6 +42,10 @@ print('Installing dependencies...')
 !apt-get update -qq && apt-get install -qq libfluidsynth1 build-essential libasound2-dev libjack-dev
 !pip install -q 'tensorflow-datasets < 4.0.0'
 !pip install -qU google-cloud magenta pyfluidsynth
+
+# Colab fixes:
+!pip install numpy==1.19.5
+
 
 print('Importing libraries...')
 
