@@ -3,6 +3,10 @@
 
 ***
 
+## UPDATE 09/05/2022: Google Piano Transformer Colab is officially dead and not supported by Google Colab anymore. The only way to use the Piano Transformer Models now is to install them locally (please see info/links to the models below).
+
+***
+
 ### You can now download both Google Piano Transformers models at the link below if you want to have a local copy/run locally (recommended).
 
 #### NOTE: Piano Transformer models require Python 3.7 + Tensorflow 1 (1.15) + Tensorflow Datasets 3.2.1 so you may need to downgrade/install all these if you do not use it anymore.
