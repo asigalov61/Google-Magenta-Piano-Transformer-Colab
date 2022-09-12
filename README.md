@@ -25,6 +25,8 @@ https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_tran
 
 #### Official colab is here: https://colab.research.google.com/github/magenta/music-spectrogram-diffusion/blob/main/music_spectrogram_diffusion/colab/synthesize_midi.ipynb
 
+#### [Check out MMSSD output samples by Project Los Angeles](https://soundcloud.com/aleksandr-sigalov-61/sets/googles-multi-instrument-music-synthesis-with-spectrogram-diffusion)
+
 ***
 
 ### [MT3: Multi-Task Multitrack Music Transcription](https://github.com/magenta/mt3)
