@@ -21,13 +21,19 @@ https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_tran
 
 ***
 
-### [NEW] [MT3: Multi-Task Multitrack Music Transcription](https://github.com/magenta/mt3)
+### [NEW]: [Multi-instrument Music Synthesis with Spectrogram Diffusion](https://github.com/magenta/music-spectrogram-diffusion)
+
+#### Official colab is here: https://colab.research.google.com/github/magenta/music-spectrogram-diffusion/blob/main/music_spectrogram_diffusion/colab/synthesize_midi.ipynb
+
+***
+
+### [MT3: Multi-Task Multitrack Music Transcription](https://github.com/magenta/mt3)
 
 #### Official colab is here: https://github.com/magenta/mt3/blob/main/mt3/colab/music_transcription_with_transformers.ipynb
 
 ***
 
-### [NEW] [MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling](https://github.com/magenta/midi-ddsp)
+### [MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling](https://github.com/magenta/midi-ddsp)
 
 #### Official colab is here: https://colab.research.google.com/github/magenta/midi-ddsp/blob/main/midi_ddsp/colab/MIDI_DDSP_Demo.ipynb
 
